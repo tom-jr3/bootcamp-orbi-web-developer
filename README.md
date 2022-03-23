@@ -21,4 +21,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Abstração**](/docs/modulo001/curso001-pensamento-computacional/mod002/content003.md)
 
+- [**Algoritmo**](/docs/modulo001/curso001-pensamento-computacional/mod002/content004.md)
+
+
 
