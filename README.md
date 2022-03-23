@@ -49,3 +49,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Linguagem de Programação**](/docs/modulo001/curso002-logica-programacao/mod002/content007.md)
 
+- [**Desvio de condicional**](/docs/modulo001/curso002-logica-programacao/mod002/content008.md)
+
+
