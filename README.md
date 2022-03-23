@@ -31,3 +31,5 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Introdução a lógica e á programação
 
 - [**Entendendo o que é lógica**](/docs/modulo001/curso002-logica-programacao/mod001/content001.md)
+
+- [**Entendendo o que é lógica**](/docs/modulo001/curso002-logica-programacao/mod001/content002.md)
