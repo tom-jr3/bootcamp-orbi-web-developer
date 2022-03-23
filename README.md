@@ -60,3 +60,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Introdução 
 - [**O que é Git**](/docs/modulo001/curso003-git-github/mod001/content001.md)
 
+#### navegação, interface e instalação 
+
+- [**Comandos básicos**](/docs/modulo001/curso003-git-github/mod002/content001.md)
+
