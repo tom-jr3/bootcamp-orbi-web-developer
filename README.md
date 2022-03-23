@@ -38,3 +38,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Fluxograma, variáveis e constantes**](/docs/modulo001/curso002-logica-programacao/mod001/content003.md)
 
+
+- [**Tomadas de decisões e expressões**](/docs/modulo001/curso002-logica-programacao/mod001/content004.md)
+

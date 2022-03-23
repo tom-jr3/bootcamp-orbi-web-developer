@@ -22,5 +22,5 @@ alterado durante a execução do algoritmo.
 ### Declaração de variáveis
 ![](/docs/assets/img/exe_declaracao_variavel.png)
 
-Variaveis tem valor que podem vairiar durante a execução de qualquer
+Variáveis tem valor que podem variar durante a execução de qualquer
 algoritmo. Mas a constante se mantém estática durante toda a execução
