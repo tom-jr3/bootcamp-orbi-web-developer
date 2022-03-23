@@ -27,6 +27,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Estudo de caso 01**](/docs/modulo001/curso001-pensamento-computacional/mod003/content001.md)
 
+### Logica de programação essencial
+#### Introdução a lógica e á programação
 
-
-
+- [**Entendendo o que é lógica**](/docs/modulo001/curso002-logica-programacao/mod001/content001.md)
