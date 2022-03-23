@@ -34,10 +34,10 @@ operadores relacionais. As expressões relacionais retornam ***verdadeiro*** ou 
 **Operadores Relacionais**
 Símbolo|Nome do operador| Exemplo| Significado
 -|-|-|-|
->|Maior que|X > y|x é maior que y?
->=|Maior ou igual|X > y|x é maior ou igual que y?
-<|Menor que|X > y|x é menor que y?
-<=|Menor ou igual|X > y|x é menor ou igual que y?
+\>|Maior que|X > y|x é maior que y?
+\>=|Maior ou igual|X > y|x é maior ou igual que y?
+\<|Menor que|X > y|x é menor que y?
+\<=|Menor ou igual|X > y|x é menor ou igual que y?
 ==|Igual que|X > y|x é igual que y?
 !=|Diferente que|X > y|x é diferente que y?
 
