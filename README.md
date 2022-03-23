@@ -27,7 +27,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Estudo de caso 01**](/docs/modulo001/curso001-pensamento-computacional/mod003/content001.md)
 
-- [certificado](/docs/assets/certificates/pensamento-computacional-42D59789.pdf)
+- [CERTIFICADO](/docs/assets/certificates/pensamento-computacional-42D59789.pdf)
 
 ### Logica de programação essencial
 #### Introdução a lógica e á programação
@@ -50,5 +50,11 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**Linguagem de Programação**](/docs/modulo001/curso002-logica-programacao/mod002/content007.md)
 
 - [**Desvio de condicional**](/docs/modulo001/curso002-logica-programacao/mod002/content008.md)
+
+- [**Matrizes e vetores**](/docs/modulo001/curso002-logica-programacao/mod002/content009.md)
+
+- [CERTIFICADO](/docs/assets/certificates/logica-programa%C3%A7%C3%A3o-essencial-4BF9848B.pdf)
+
+
 
 
