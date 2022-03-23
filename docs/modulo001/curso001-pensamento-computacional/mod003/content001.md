@@ -9,12 +9,19 @@
 
 Decomposição do problema original, que se trata de sobreviver
 Para a sobrevivências os recursos principais são:
+
  ![](/docs/assets/img/caso_uso_01_01.png)
+
  Decompondo e partes menores cada item da decomposição original
+
  ![](/docs/assets/img/caso_uso_01_02.png)
+
  Outro nível de decomposição do problema
+
  ![](/docs/assets/img/caso_uso_01_03.png)
+
  Identificar itens que formam um padrão de repetição nas soluções
+
  ![](/docs/assets/img/caso_uso_01_04.png)
 
 Apos isso determinar os algoritmos para realização 
