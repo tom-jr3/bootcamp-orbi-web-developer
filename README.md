@@ -19,3 +19,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Padrões**](/docs/modulo001/curso001-pensamento-computacional/mod002/content002.md)
 
+- [**Abstração**](/docs/modulo001/curso001-pensamento-computacional/mod002/content003.md)
+
+
