@@ -16,3 +16,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Pilares de Pensamento Computacional
 
 - [**Decomposição**](/docs/modulo001/curso001-pensamento-computacional/mod002/content001.md)
+
+- [**Padrões**](/docs/modulo001/curso001-pensamento-computacional/mod002/content002.md)
+
