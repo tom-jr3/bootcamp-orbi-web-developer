@@ -41,3 +41,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Tomadas de decisões e expressões**](/docs/modulo001/curso002-logica-programacao/mod001/content004.md)
 
+- [**Concatenação**](/docs/modulo001/curso002-logica-programacao/mod001/content005.md)
+
+
