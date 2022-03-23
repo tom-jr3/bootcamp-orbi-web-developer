@@ -6,7 +6,13 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 # Guia  
 
 ## Módulo 001
-### Logica computacional
+### Pensamento computacional
+#### Visão geral do pensamento computacional
+
 - [**Visão Geral**](/docs/modulo001/curso001-pensamento-computacional/mod001/content001.md)
 
 - [**Habilidades complementares**](/docs/modulo001/curso001-pensamento-computacional/mod001/content002.md)
+
+#### Pilares de Pensamento Computacional
+
+- [**Decomposição**](/docs/modulo001/curso001-pensamento-computacional/mod002/content001.md)
