@@ -8,3 +8,5 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 ## Módulo 001
 ### Logica computacional
 - [**Visão Geral**](/docs/modulo001/curso001-pensamento-computacional/mod001/content001.md)
+
+- [**Habilidades complementares**](/docs/modulo001/curso001-pensamento-computacional/mod001/content002.md)
