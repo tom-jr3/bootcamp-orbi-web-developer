@@ -46,5 +46,7 @@ Utilização de símbolos pre-definidos
 ![](/docs/assets/img/ex_algoritmo_fluxograma.png)
 
 - **Pseudocódigo**
+
 Portugol
+
 ![](/docs/assets/img/ex_algoritmo_portugol.png)
