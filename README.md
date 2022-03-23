@@ -64,3 +64,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Comandos básicos**](/docs/modulo001/curso003-git-github/mod002/content001.md)
 
+#### Entendendo o funcionamento do GIT
+
+- [**Tópicos Fundamentais**](/docs/modulo001/curso003-git-github/mod003/content001.md)
+
+- [**Objetos internos do Git**](/docs/modulo001/curso003-git-github/mod003/content002.md)
