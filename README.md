@@ -47,3 +47,5 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Estrutura de Repetição**](/docs/modulo001/curso002-logica-programacao/mod002/content006.md)
 
+- [**Linguagem de Programação**](/docs/modulo001/curso002-logica-programacao/mod002/content007.md)
+
