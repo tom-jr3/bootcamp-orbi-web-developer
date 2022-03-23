@@ -56,5 +56,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [CERTIFICADO](/docs/assets/certificates/logica-programa%C3%A7%C3%A3o-essencial-4BF9848B.pdf)
 
 
-
+### Introdução a Git e GitHub
+#### Introdução 
+- [**O que é Git**](/docs/modulo001/curso003-git-github/mod001/content001.md)
 
