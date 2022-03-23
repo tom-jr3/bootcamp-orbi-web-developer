@@ -23,5 +23,11 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Algoritmo**](/docs/modulo001/curso001-pensamento-computacional/mod002/content004.md)
 
+#### Estudos de caso
+
+- [**Estudo de caso 01**](/docs/modulo001/curso001-pensamento-computacional/mod003/content001.md)
+
+- [**Estudo de caso 02**](/docs/modulo001/curso001-pensamento-computacional/mod003/content002.md)
+
 
 
