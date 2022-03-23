@@ -43,4 +43,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Concatenação**](/docs/modulo001/curso002-logica-programacao/mod001/content005.md)
 
+#### Introdução Portugol
+
+- [**Estrutura de Repetição**](/docs/modulo001/curso002-logica-programacao/mod002/content006.md)
 
