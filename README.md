@@ -79,4 +79,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**ciclo de vida do GIT**](/docs/modulo001/curso003-git-github/mod004/content002.md)
 
+- [**Trabalhando com github**](/docs/modulo001/curso003-git-github/mod004/content003.md)
+
+
 
