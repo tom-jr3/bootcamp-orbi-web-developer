@@ -96,7 +96,10 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 #### Fundamentos de um projeto ágil
 
-- [**Cerimonias Scrum**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content004.md)
+- [**Responsabilidades do PO**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content004.md)
+
+- [**Analisando escopo e definindo prioridades**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content005.md)
+
 
 
 
