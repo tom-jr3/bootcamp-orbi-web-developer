@@ -94,6 +94,10 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Cerimonias Scrum**](/docs/modulo001/curso004-projetos-ageis-scrum/mod001/content003.md)
 
+#### Fundamentos de um projeto ágil
+
+- [**Cerimonias Scrum**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content004.md)
+
 
 
 
