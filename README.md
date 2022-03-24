@@ -69,3 +69,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**Tópicos Fundamentais**](/docs/modulo001/curso003-git-github/mod003/content001.md)
 
 - [**Objetos internos do Git**](/docs/modulo001/curso003-git-github/mod003/content002.md)
+
+- [**Chave SSH Token**](/docs/modulo001/curso003-git-github/mod003/content003.md)
+
