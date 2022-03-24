@@ -75,3 +75,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Primeiros comandos GIT
 - [**criando repositório GIT**](/docs/modulo001/curso003-git-github/mod004/content001.md)
 
+#### Ciclo de vida
+
+- [**ciclo de vida do GIT**](/docs/modulo001/curso003-git-github/mod004/content002.md)
+
+
