@@ -81,5 +81,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Trabalhando com github**](/docs/modulo001/curso003-git-github/mod004/content003.md)
 
+- [CERTIFICADO](/docs/assets/certificates/introducao-git-github-9CE6ACE0.pdf)
+
+
 
 
