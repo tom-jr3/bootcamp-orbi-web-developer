@@ -90,5 +90,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Introdução a gestão de Projetos e ao Scrum**](/docs/modulo001/curso004-projetos-ageis-scrum/mod001/content001.md)
 
+- [**Papeis e responsabilidades de cada um nbo time**](/docs/modulo001/curso004-projetos-ageis-scrum/mod001/content002.md)
+
+
 
 
