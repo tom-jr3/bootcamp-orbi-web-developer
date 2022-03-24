@@ -84,5 +84,11 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [CERTIFICADO](/docs/assets/certificates/introducao-git-github-9CE6ACE0.pdf)
 
 
+### Projetos Ágeis com Scrum
+
+#### Introdução a Scrum
+
+- [**Introdução a gestão de Projetos e ao Scrum**](/docs/modulo001/curso004-projetos-ageis-scrum/mod001/content001.md)
+
 
 
