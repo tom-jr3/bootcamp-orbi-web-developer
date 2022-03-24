@@ -92,6 +92,9 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Papeis e responsabilidades de cada um nbo time**](/docs/modulo001/curso004-projetos-ageis-scrum/mod001/content002.md)
 
+- [**Cerimonias Scrum**](/docs/modulo001/curso004-projetos-ageis-scrum/mod001/content003.md)
+
+
 
 
 
