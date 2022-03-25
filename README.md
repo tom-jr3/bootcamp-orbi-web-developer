@@ -139,3 +139,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Stacks
 
 - [**O que são Stacks**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod006/content006.md)
+
+#### Linguagem de Programação
+
+- [**Principais LPs**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod007/content007.md)
