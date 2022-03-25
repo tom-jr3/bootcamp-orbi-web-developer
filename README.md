@@ -143,3 +143,5 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Linguagem de Programação
 
 - [**Principais LPs**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod007/content007.md)
+
+- [CERTIFICADO](/docs/assets/certificates/primeiros-passos-dev-webDA3BDA99.pdf)
