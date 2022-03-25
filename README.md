@@ -108,4 +108,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Papel do PO na transformação digital**](/docs/modulo001/curso004-projetos-ageis-scrum/mod003/content007.md)
 
+- [**Rotinas de um time Ágil**](/docs/modulo001/curso004-projetos-ageis-scrum/mod003/content008.md)
+
+- [CERTIFICADO](/docs/assets/certificates/metodologia-scrum-DBD27397.pdf)
+
 
