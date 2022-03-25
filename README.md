@@ -153,3 +153,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 #### Entendendo Semântica
 - [**Semântica**](/docs/modulo002/curso002-criacao-wesites-html-css/mod002/content002.md)
+
+#### Texto e Links em HTML
+- [**Tags para texto**](/docs/modulo002/curso002-criacao-wesites-html-css/mod003/content003.md)
