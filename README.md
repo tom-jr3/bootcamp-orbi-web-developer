@@ -27,7 +27,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Estudo de caso 01**](/docs/modulo001/curso001-pensamento-computacional/mod003/content001.md)
 
-- [CERTIFICADO](/docs/assets/certificates/pensamento-computacional-42D59789.pdf)
+- [**CERTIFICADO**](/docs/assets/certificates/pensamento-computacional-42D59789.pdf)
 
 ### Logica de programação essencial
 #### Introdução a lógica e á programação
@@ -53,7 +53,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Matrizes e vetores**](/docs/modulo001/curso002-logica-programacao/mod002/content009.md)
 
-- [CERTIFICADO](/docs/assets/certificates/logica-programa%C3%A7%C3%A3o-essencial-4BF9848B.pdf)
+- [**CERTIFICADO**](/docs/assets/certificates/logica-programa%C3%A7%C3%A3o-essencial-4BF9848B.pdf)
 
 
 ### Introdução a Git e GitHub
@@ -81,7 +81,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Trabalhando com github**](/docs/modulo001/curso003-git-github/mod004/content003.md)
 
-- [CERTIFICADO](/docs/assets/certificates/introducao-git-github-9CE6ACE0.pdf)
+- [**CERTIFICADO**](/docs/assets/certificates/introducao-git-github-9CE6ACE0.pdf)
 
 
 ### Projetos Ágeis com Scrum
@@ -110,7 +110,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Rotinas de um time Ágil**](/docs/modulo001/curso004-projetos-ageis-scrum/mod003/content008.md)
 
-- [CERTIFICADO](/docs/assets/certificates/metodologia-scrum-DBD27397.pdf)
+- [**CERTIFICADO**](/docs/assets/certificates/metodologia-scrum-DBD27397.pdf)
 
 ## Modulo 002
 
@@ -144,7 +144,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Principais LPs**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod007/content007.md)
 
-- [CERTIFICADO](/docs/assets/certificates/primeiros-passos-dev-webDA3BDA99.pdf)
+- [**CERTIFICADO**](/docs/assets/certificates/primeiros-passos-dev-webDA3BDA99.pdf)
 
 ### Criação de website com HTML CSS
 #### Introdução
@@ -169,3 +169,4 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Estilizando Elementos
 - [**Estilizando Elementos de texto e listas**](/docs/modulo002/curso002-criacao-wesites-html-css/mod007/content007.md)
 
+- [**CERTIFICADO**](/docs/assets/certificates/intro-html-css-83156512.pdf)
