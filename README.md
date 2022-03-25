@@ -103,8 +103,9 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**Papel do PO na transformação digital**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content006.md)
 
 
+#### Conceitos e atividades essenciais para o sucesso de um projeto
 
 
-
+- [**Papel do PO na transformação digital**](/docs/modulo001/curso004-projetos-ageis-scrum/mod003/content007.md)
 
 
