@@ -166,3 +166,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Introdução ao css
 - [**conceitos básicos**](/docs/modulo002/curso002-criacao-wesites-html-css/mod006/content006.md)
 
+#### Estilizando Elementos
+- [**Estilizando Elementos de texto e listas**](/docs/modulo002/curso002-criacao-wesites-html-css/mod007/content007.md)
+
