@@ -100,6 +100,9 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**Analisando escopo e definindo prioridades**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content005.md)
 
+- [**Papel do PO na transformação digital**](/docs/modulo001/curso004-projetos-ageis-scrum/mod002/content006.md)
+
+
 
 
 
