@@ -170,3 +170,12 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**Estilizando Elementos de texto e listas**](/docs/modulo002/curso002-criacao-wesites-html-css/mod007/content007.md)
 
 - [**CERTIFICADO**](/docs/assets/certificates/intro-html-css-83156512.pdf)
+
+
+
+## Modulo 03 - Javascript
+
+### Coleções
+
+#### Maps
+- [**Estrutura, Métodos e Map vs Objeto**](/docs/modulo003/curso001-javascript-maps/mod001/content001.md)
