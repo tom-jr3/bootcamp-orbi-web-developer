@@ -156,3 +156,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 #### Texto e Links em HTML
 - [**Tags para texto**](/docs/modulo002/curso002-criacao-wesites-html-css/mod003/content003.md)
+
+#### Imagens
+- [**Tags imagens**](/docs/modulo002/curso002-criacao-wesites-html-css/mod004/content004.md)
