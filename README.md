@@ -150,3 +150,6 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Introdução
 
 - [**Estrutura básica**](/docs/modulo002/curso002-criacao-wesites-html-css/mod001/content001.md)
+
+#### Entendendo Semântica
+- [**Semântica**](/docs/modulo002/curso002-criacao-wesites-html-css/mod002/content002.md)
