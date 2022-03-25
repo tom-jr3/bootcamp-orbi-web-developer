@@ -179,3 +179,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 #### Maps
 - [**Estrutura, Métodos e Map vs Objeto**](/docs/modulo003/curso001-javascript-maps/mod001/content001.md)
+
+- [**Sets**](/docs/modulo003/curso001-javascript-maps/mod002/content002.md)
+
+- [**CERTIFICADO**](/docs/assets/certificates/javascript-colecoes-BD9F41A2.pdf)
+
