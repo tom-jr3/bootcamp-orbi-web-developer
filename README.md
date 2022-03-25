@@ -112,4 +112,9 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [CERTIFICADO](/docs/assets/certificates/metodologia-scrum-DBD27397.pdf)
 
+## Modulo 002
 
+### Primeiros passos para desenvolvimento web
+#### O que é Internet
+
+- [**Papel do PO na transformação digital**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod001/content001.md)
