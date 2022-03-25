@@ -162,3 +162,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 #### Listas
 - [**Tags li, ul e ol**](/docs/modulo002/curso002-criacao-wesites-html-css/mod005/content005.md)
+
+#### Introdução ao css
+- [**conceitos básicos**](/docs/modulo002/curso002-criacao-wesites-html-css/mod006/content006.md)
+
