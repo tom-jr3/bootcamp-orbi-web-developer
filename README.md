@@ -118,3 +118,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### O que é Internet
 
 - [**Papel do PO na transformação digital**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod001/content001.md)
+
+#### como funciona a Internet
+
+- [**Papel do PO na transformação digital**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod002/content002.md)
