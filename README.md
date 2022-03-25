@@ -126,3 +126,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### TCP/IP, portas,roteadores, switches e modems
 
 - [**TCP/IP e UDP**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod003/content003.md)
+
+#### Celular, internet e outros dispositivos
+
+- [**Dados moveis**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod004/content004.md)
