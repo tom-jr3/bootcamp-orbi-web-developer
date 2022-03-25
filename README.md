@@ -135,3 +135,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 #### Browser,sites aplicativos e webserver
 
 - [**Browser**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod005/content005.md)
+
+#### Stacks
+
+- [**O que são Stacks**](/docs/modulo002/curso001-primeiros-passo-dev-web/mod006/content006.md)
