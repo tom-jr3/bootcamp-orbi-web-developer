@@ -184,3 +184,9 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 - [**CERTIFICADO**](/docs/assets/certificates/javascript-colecoes-BD9F41A2.pdf)
 
+### Debugging e Erro Handling
+
+#### Tipos de erros
+- [**Tipos de Erros**](/docs/modulo003/curso002-javascript-erros/mod001/content001.md)
+
+- [**CERTIFICADO**](/docs/assets/certificates/javascript-erros-79FA0B02.pdf)
