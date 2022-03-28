@@ -190,3 +190,14 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**Tipos de Erros**](/docs/modulo003/curso002-javascript-erros/mod001/content001.md)
 
 - [**CERTIFICADO**](/docs/assets/certificates/javascript-erros-79FA0B02.pdf)
+
+
+### Javascript Assíncrono
+
+#### Assincronicidade
+- [**Definição, Promises e Async/Await**](/docs/modulo003/curso003-javascript-assincrono/mod001/content001.md)
+
+#### Consumindo APIs
+- [**APIs e Fetch**](/docs/modulo003/curso003-javascript-assincrono/mod002/content002.md)
+
+- [**CERTIFICADO**](/docs/assets/certificates/javascript-assincrono-0B7A6773.pdf)
