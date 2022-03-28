@@ -201,3 +201,8 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**APIs e Fetch**](/docs/modulo003/curso003-javascript-assincrono/mod002/content002.md)
 
 - [**CERTIFICADO**](/docs/assets/certificates/javascript-assincrono-0B7A6773.pdf)
+
+### Orientação a Objetos
+
+#### Compreendendo Orientação a Objetos
+- [**Paradigmas e Pilares**](/docs/modulo003/curso004-javascript-poo/mod001/content001.md)
