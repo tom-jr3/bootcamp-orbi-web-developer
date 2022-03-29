@@ -206,3 +206,7 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 
 #### Compreendendo Orientação a Objetos
 - [**Paradigmas e Pilares**](/docs/modulo003/curso004-javascript-poo/mod001/content001.md)
+
+- [**Protótipos e Classes**](/docs/modulo003/curso004-javascript-poo/mod002/content002.md)
+
+- [**CERTIFICADO**](/docs/assets/certificates/javascript-poo-27A14D39.pdf)
