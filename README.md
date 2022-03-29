@@ -210,3 +210,16 @@ bootCamp e também servirá para qualquer recrutador que deseja verificar os con
 - [**Protótipos e Classes**](/docs/modulo003/curso004-javascript-poo/mod002/content002.md)
 
 - [**CERTIFICADO**](/docs/assets/certificates/javascript-poo-27A14D39.pdf)
+
+
+### Map, Filter e Reduce
+
+#### Map
+
+- [**Map**](/docs/modulo003/curso004-javascript-map-filter-reduce/mod001/content001.md)
+
+- [**Filter**](/docs/modulo003/curso004-javascript-map-filter-reduce/mod002/content002.md)
+
+- [**Filter**](/docs/modulo003/curso004-javascript-map-filter-reduce/mod003/content003.md)
+
+
